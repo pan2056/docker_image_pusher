@@ -5,4 +5,9 @@
 # oraclelinux
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-openconstruct/peersuite
+# openconstruct/peersuite
+alpine
+centos:centos7.9.2009
+centos:centos8
+rockylinux:9
+rockylinux:9-minimal
