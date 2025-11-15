@@ -1,8 +1,8 @@
-ubuntu:22.04
-openjdk:8-jdk-alpine
-postgres:alpine
-nginx:alpine
-oraclelinux
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+# ubuntu:22.04
+# openjdk:8-jdk-alpine
+# postgres:alpine
+# nginx:alpine
+# oraclelinux
+# 支持指定架构
+# --platform=linux/arm64 xiaoyaliu/alist
 openconstruct/peersuite
