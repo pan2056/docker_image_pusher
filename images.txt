@@ -5,3 +5,4 @@ nginx:alpine
 oraclelinux
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+openconstruct/peersuite
