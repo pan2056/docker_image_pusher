@@ -6,8 +6,26 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # openconstruct/peersuite
-alpine
-centos:centos7.9.2009
-centos:centos8
-rockylinux:9
-rockylinux:9-minimal
+# alpine
+# centos:centos7.9.2009
+# centos:centos8
+# rockylinux:9
+# rockylinux:9-minimal
+postgres:13.2
+eclipse-mosquitto:1.6.12
+hatiolab/operato-nginx:latest
+hatiolab/operato-env:latest
+hatiolab/scheduler:latest
+hatiolab/service-broker:latest
+hatiolab/schevt-mgr:latest
+hatiolab/pending-queue:latest
+hatiolab/things-factory-framework:5.0.0
+hatiolab/reference-app:6.0.23
+hatiolab/operato-mes:7.0.45
+hatiolab/label-studio-custom:latest
+hatiolab/operato-wms:4.3.695
+hatiolab/operato-board:9.0.0
+hatiolab/operato-report:0.13
+hatiolab/operato-hub:4.3.694
+hatiolab/operatochef_v1:8.0.63
+hatiolab/operato-mms:4.3.694
